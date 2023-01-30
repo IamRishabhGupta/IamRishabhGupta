@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrishabhgupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamrishabhgupta" /> </p>
 
-- 🔭 I’m currently working on **Expense Tracker application for android**
+- 🔭 I’m currently working on **CrewConnect application for android**
 
 - 🌱 I’m currently learning **Node.js**
 
