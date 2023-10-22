@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
-<h3 align="center">A passionate android/backend developer from India</h3>
+<h3 align="center">A passionate android from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrishabhgupta&label=Profile%20views&color=0e75b6&style=flat" alt="iamrishabhgupta" /> </p>
 
-- 🔭 I’m currently working on **CrewConnect application for android**
+- 🔭 I’m currently working on **An autonomous driving vehicle with Mobile App support**
 
-- 👯 I’m looking to collaborate on **Android Dev Projects**
+- 👯 I’m looking to collaborate on **Android Development Projects**
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Kotlin and Design Patterns**
 
 - 📫 How to reach me **rishabh9aug@gmail.com**
 
