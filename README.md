@@ -5,15 +5,12 @@
 
 - 🔭 I’m currently working on **CrewConnect application for android**
 
-- 🌱 I’m currently learning **Node.js**
-
 - 👯 I’m looking to collaborate on **Android Dev Projects**
 
 - 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **rishabh9aug@gmail.com**
 
-- ⚡ Fun fact **Cycling is my stress buster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
