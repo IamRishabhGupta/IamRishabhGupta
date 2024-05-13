@@ -9,7 +9,7 @@
 - 🐱‍💻 I’m currently learning: SpringBoot
 - 💬 Ask me about: Kotlin and Java
 - 📫 How to reach me: [email](mailto:rishabh9aug@gmail.com) or [linkedIn](https://www.linkedin.com/in/rishabh-g-014020139/)
-- ⚜ Pronouns: He/His
+
 
 <!-- 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksh-bansal-dev&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&title_color=a0c5e7&text_color=a0c5e7)
