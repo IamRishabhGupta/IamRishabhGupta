@@ -9,6 +9,8 @@
 - 🐱‍💻 I’m currently learning: SpringBoot
 - 💬 Ask me about: Kotlin and Java
 - 📫 How to reach me: [email](mailto:rishabh9aug@gmail.com) or [linkedIn](https://www.linkedin.com/in/rishabh-g-014020139/)
+- ⚡ Fun fact: Deadlifts Are GODLY!!
+  
 
 
 <!-- 
